@@ -19,9 +19,6 @@ This repository contains a series of exercises for practicing your Machine Learn
 - 02_Data_Analysis
 - 03_Iris_Guided
 
-- Classification Exercise with Wine Dataset*
-- Regression Exercise w/ the Boston Dataset*
-
 ## Available to review (from past class livepractice)
 - Intro to python
 - Intro to Numpy
