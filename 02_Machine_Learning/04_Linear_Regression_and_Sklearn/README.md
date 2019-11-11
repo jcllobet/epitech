@@ -14,7 +14,7 @@ This repository contains a series of exercises for practicing your Machine Learn
 - From Pandas to SkLearn
 
 ## Homework for Today
-- Kaggle exercises
+- Kaggle exercises --> *Should already be done*
 - Iris (updated) --> Should already be done but you can take a look
 - Classification Exercise with Wine Dataset*
 - Regression Exercise w/ the Boston Dataset*
